@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'noris';
+    src: url('font/Norse-Bold.otf');
+}
+
 html, body {
     height: 100%;
     margin: 0;
@@ -17,6 +22,9 @@ html, body {
   .rightbody {
    width: 70%;
    height: 100vh;
-   background-color: aliceblue;
+   background-color: rgb(62, 92, 69);
   }
   
+  .leftlogo{
+    font-style: 'noris', san-serif;
+  }
