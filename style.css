@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    width: 100%;
+  }
+  
+  .leftbody {
+    width: 30%;
+    height: 100vh;
+    background-image: url('images/img5.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  .rightbody {
+   width: 70%;
+   height: 100vh;
+   background-color: aliceblue;
+  }
+  
