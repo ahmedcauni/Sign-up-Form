@@ -26,5 +26,13 @@ html, body {
   }
   
   .leftlogo{
-    font-style: 'noris', san-serif;
+    margin-top: 40%;
+    font-size: 100px;
+    width: 100%;
+    padding: 20px 0px;
+    color: white;
+    text-align: center;
+    font-family: 'noris', san-serif;
+    background-color: rgba(0, 0, 0, 0.6);
+    
   }
